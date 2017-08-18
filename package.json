@@ -1,0 +1,55 @@
+{
+  "name": "demo-by-gulp",
+  "version": "0.0.1",
+  "description": "use gulp to build a front frame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnnycruise",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cache": "^0.4.6",
+    "gulp-clean-css": "^3.4.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^1.1.0",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pngquant": "^1.0.11",
+    "gulp-size": "^2.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.12",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.4.2",
+    "gulp-cache": "^0.4.6",
+    "gulp-concat": "^2.6.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-pngquant": "^1.0.11",
+    "gulp-size": "^2.1.0",
+    "gulp-file-include": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnycruise/demo-by-gulp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnnycruise/demo-by-gulp/issues"
+  },
+  "homepage": "https://github.com/johnnycruise/demo-by-gulp#readme"
+}
