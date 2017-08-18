@@ -1,0 +1,12 @@
+.jumbotron{
+	border: 1px double red;
+}
+
+.row{
+	border: 10px solid orange;
+	background-color: gray;
+}
+
+body{
+	border: 6px solid #FF0000;
+}
